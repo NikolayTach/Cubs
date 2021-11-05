@@ -14,9 +14,9 @@ hop ration int
 	null = 0
 	dice = odd 
 	status = reader
-	/.
+	\n
 doc empty 
-./n
+\n
 	full hear recycle moder 
 		conjugate : ("/223231351/3125341254152/8343423298524-12123414242.zip")
 		int 
